@@ -21,10 +21,8 @@ When the company receives a loan application, the company has to make a decision
 If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company>
 
 If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the compy
-The data given below contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest ra
-tof default.
-
-LendingClub faces a significant business challenge related to managing default risks effectively while optimizing returns for its investors. The platform facilitates peer-to-peer lending, connecting borrowers with investors, and relies on accurate risk assessments to maintain a sustainable and profitable lending ecosystem. Thus, the CEO wants us to provide insights about which factors are associated with credit risk in Lending Club's operations, and to construct models capable of predicting the probability of default for new applicants and possible losses on its loans in order to establish a credit policy, deciding when to grant a loan or not for an applicant. An important observation is that the CEO wants these models to be easy to understand. Since our company works on the internet, making customers happy and being clear is really important. So, we need to be able to explain why we decide to approve or deny a loan.
+The data given below contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate of default.
+Since the company operates online, making customers happy and being clear is really important. So, we need to be able to explain why we decide to approve or deny a loan.
 
 _**3 Which are the project objectives and benefits?**_
 
